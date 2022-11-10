@@ -4,19 +4,21 @@
 
 <b>Sign In Page using which user as well as admin can login to their respective dashboard:</b>
 
-![LoginPage](https://user-images.githubusercontent.com/53406891/200186311-2a1a5d96-a435-4cd9-a5aa-360e5cf7005f.png)
+![loginUser](https://user-images.githubusercontent.com/53406891/201126758-b79d2f3a-d5cd-43ab-b334-b45dd2f005da.png)
 
 User Dashboard :
 
-![User-Dashboard](https://user-images.githubusercontent.com/53406891/200186400-5196232e-1891-4d0d-84a7-dd8a73aaf1ea.png)
+![UserDashboard](https://user-images.githubusercontent.com/53406891/201127034-c148ec28-4937-43bd-9b7e-b2b7d84c5876.png)
+
+
+Result :
+
+![resultChart](https://user-images.githubusercontent.com/53406891/201125402-77dc21e9-94d2-462b-b7f4-ad72409628e8.png)
 
 Admin Dashboard :
 
 ![AdminDashboard](https://user-images.githubusercontent.com/53406891/200186438-f4789ad9-caad-4676-aec7-a2bec15b5bd0.png)
 
-Preview Page :
-
-![PreviewPage](https://user-images.githubusercontent.com/53406891/200186476-4b55ef56-5374-466e-bb3f-bdb88989f4b9.png)
 
 Link Generation (Need to work on this) :
 
